@@ -62,6 +62,7 @@ Thank you for participating! :D
 - Sourabh Kumar Singh, India
 - Pedro Fonseca, Brasil
 - Italo Carvalho Vianelli Ribeiro, Brazil
+- Aishwary Gupta, India
 - Mateus Felipe, Brasil
 - Aryan Kumar, India
 - Bhavya Jain, India
